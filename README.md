@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neela Shiva Prasad</h1>
-<h3 align="center">Aspiring Software Development Engineer | Full-Stack Developer | JPMorgan Chase Code for Good '25 Participant</h3>
+<h3 align="center">JPMorgan Chase Code for Good '25 Participant | Aspiring Software Development Engineer | Full-Stack Developer </h3>
 
 ---
 
