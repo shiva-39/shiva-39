@@ -22,12 +22,13 @@
 ---
 
 🚀 **Projects**
-- **TripTogether:** Real-time location-sharing app using Flutter & Firebase.  
-- **AbleHire:** MERN-based accessible job platform for people with disabilities.  
-- **Smile Genie:** AI-powered facial expression recognition app in Python.  
-- **QueryBuddy:** Natural language chatbot for SQL/NoSQL databases.  
+- **TripTogether:** Real-time location-sharing app using Flutter & Firebase.
+- **AbleHire:** MERN-based accessible job platform for people with disabilities. [![Link](https://img.shields.io/badge/View%20Project-blue)](https://able-hire.vercel.app/)
+- **Smile Genie:** AI-powered facial expression recognition app in Python.
+- **AVA Creations:** Custom web application for an NGO built with the MERN stack, featuring responsive UI, secure REST APIs, and production-ready deployment.
 
 ---
+
 
 🏅 **Achievements**
 - Participant at JPMorgan Chase Code for Good 2025 (Top 50,000+ nationwide)
