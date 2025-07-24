@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neela Shiva Prasad</h1>
-<h3 align="center">JPMorgan Chase Code for Good '25 | Aspiring Software Development Engineer | Full-Stack Developer </h3>
+<h3 align="center">Final Year Computer Science Student | MERN Stack Developer | Aspiring Software Development Engineer </h3>
 
 ---
 
@@ -36,7 +36,6 @@
 
 
 🏅 **Achievements**
-- Participant at JPMorgan Chase Code for Good 2025 (Top 50,000+ nationwide)
 - AAC Knowledge Lead at GRIET
 - B.Tech CSE with 9.1 GPA
 
