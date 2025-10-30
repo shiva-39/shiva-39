@@ -1,49 +1,78 @@
 <h1 align="center">Hi 👋, I'm Neela Shiva Prasad</h1>
-<h3 align="center">Final Year Computer Science Student | MERN Stack Developer | Aspiring Software Development Engineer </h3>
+<h3 align="center">AI & Backend Engineer | Python Developer | Generative AI Enthusiast | Final Year CSE Student</h3>
 
 ---
 
-💻 **About Me**  
-- 🎓 Computer Science Engineering student at GRIET  
-- 🛠️ Specializing in MERN Stack (MongoDB, Express, React, Node)  
-- ⚡ Passionate about solving real-world problems with clean, efficient code  
-- 🤝 Love collaborating in agile teams  
-- 🚀 Building scalable, user-friendly applications
+💡 **About Me**
+- 🎓 Final-year **Computer Science Engineering** student at **GRIET, Hyderabad**
+- 💻 Passionate about building **AI-driven, scalable backend systems** using **Python, FastAPI, Flask, and GCP**
+- 🤖 Skilled in **Generative AI**, **RAG Pipelines**, **LLMs**, and **Computer Vision**
+- ⚙️ Experienced in developing **REST APIs**, **microservices**, and **data pipelines**
+- 🚀 Advocate of **clean architecture**, **open-source contributions**, and **cloud deployments**
+- 🧠 Constantly exploring how **AI can enhance productivity and accessibility**
 
 ---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+### 🧩 **Tech Stack & Skills**
 
-🧩 **Skills & Tech**  
-- **Languages:** JavaScript (ES6+), Python, Java, SQL, C  
-- **Web:** HTML5, CSS3, React.js, Node.js, Express.js, MERN, REST APIs  
-- **Databases:** MongoDB, MySQL  
-- **Tools:** Git, GitHub, Postman, Firebase, Figma  
-- **Practices:** Agile, CI/CD
+**Languages:** Python 🐍 | JavaScript (ES6+) | Java | SQL | C  
+**Backend Frameworks:** FastAPI | Flask | Node.js | Express.js  
+**AI / ML:** TensorFlow | OpenCV | LangChain | RAG | LLMs | Agent AI | Hugging Face  
+**Databases:** PostgreSQL | MySQL | MongoDB | Firebase  
+**Cloud & DevOps:** Docker | GCP | AWS | CI/CD | Linux  
+**Web & UI:** React.js | HTML5 | CSS3 | Figma  
+**Tools:** Git | GitHub | Postman | Pytest | Power BI  
 
 ---
 
-🚀 **Projects**
-- **TripTogether:** Real-time location-sharing app using Flutter & Firebase.(mobile app)
-- **AbleHire:** MERN-based accessible job platform for people with disabilities. [![Link](https://img.shields.io/badge/View%20Project-blue)](https://able-hire.vercel.app/)
-- **Smile Genie:** AI-powered facial expression recognition app in Python.(mobile app)
-- **AVA Creations:** Custom web application for an NGO built with the MERN stack, featuring responsive UI, secure REST APIs, and production-ready deployment.(NGO Collaboration)
+### 🚀 **Projects**
+
+🔹 **AbleHire** – *AI-Powered Accessible Job Platform*  
+> 🔗 [View Project](https://able-hire.vercel.app/) • Tech: React, Firebase, LLMs, RAG  
+> Designed intelligent job-matching and accessibility workflows using LLM-based AI chatbot and real-time synchronization with Firestore.
+
+🔹 **Smile Genie** – *AI Facial Expression Recognition App*  
+> Tech: Python, Flask, FastAPI, Google ML Kit, Firebase  
+> Detects user emotions via facial recognition and recommends uplifting content using ML pipelines.
+
+🔹 **TripTogether** – *Real-Time Group Navigation Platform*  
+> Tech: Flutter, Firebase, Firestore, Google Maps API  
+> Enables real-time location sharing, SOS alerts, and geofencing for bikers and convoys.
+
+🔹 **AVA Creations** – *MERN Web App for NGO Collaboration*  
+> Tech: MongoDB, Express, React, Node  
+> Developed responsive, secure, full-stack platform for project and donation management.
 
 ---
 
+### 🏆 **Experience**
+**Backend Engineering Intern – PearlThoughts (Jul 2025 – Aug 2025)**  
+- Developed scalable RESTful APIs with **FastAPI** and **Dockerized** services for cloud deployment.  
+- Integrated **AI/ML models** into backend automation workflows.  
+- Optimized SQL queries and improved backend performance by 35%.  
 
-🏅 **Achievements**
-- AAC Knowledge Lead at GRIET
-- B.Tech CSE with 9.1 GPA
+---
+
+### 🧠 **Achievements & Roles**
+- **Knowledge Lead**, Advanced Academic Club (AAC) – GRIET  
+- **Google Summer of Code (GSoC) Contributor** – Worked on OSIPI and Wayshot Projects  
+- Built multiple **open-source AI utilities** and **data-driven applications**
 
 ---
 
-📫 **Connect with Me**  
-- [LinkedIn](https://www.linkedin.com/in/shiva-prasad-392005nsp/)  
-- [GitHub](https://github.com/shiva-39)  
-- 📧 shivaprasad392005@gmail.com
+### 🌍 **Interests**
+- AI Systems Design  
+- Generative AI & LLM Integration  
+- Cloud-Native Backend Development  
+- Open-Source & Developer Communities  
 
 ---
+
+### 📫 **Connect With Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shiva-prasad-392005nsp/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/shiva-39)  
+📧 **shivaprasad392005@gmail.com**
+
+---
+
+✨ *“Building systems that think, scale, and make life easier.”*
