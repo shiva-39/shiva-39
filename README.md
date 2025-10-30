@@ -55,7 +55,7 @@
 
 ### 🧠 **Achievements & Roles**
 - **Knowledge Lead**, Advanced Academic Club (AAC) – GRIET  
-- **Google Summer of Code (GSoC) Contributor** – Worked on OSIPI and Wayshot Projects  
+- **Code for Good — JPMorgan Chase Hackathon Participant**
 - Built multiple **open-source AI utilities** and **data-driven applications**
 
 ---
